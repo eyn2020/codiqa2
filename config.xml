@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>My First App</name>
+    <name>codiqa2</name>
 
     <description>
-        An example for phonegap build docs. 
+        An example for phonegap build - codiqa2, drag, camera demo
     </description>
 
-    <author href="http://picturoo.com" email="support@picturoo.com">
-        Picturoo, Inc.
+    <author href="http://haha.com" email="haha@haha.com">
+        haha
     </author>
 
 	<gap:platform name="ios" />
