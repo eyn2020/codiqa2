@@ -32,7 +32,8 @@
 	<gap:plugin name="org.apache.cordova.file-transfer" />
 	<gap:plugin name="org.apache.cordova.network-information" />
 	<gap:plugin name="org.apache.cordova.dialogs" />
-	<gap:plugin name="org.apache.cordova.splashscreen" />
+	<!--gap:plugin name="org.apache.cordova.splashscreen" /-->
+	<gap:plugin name="org.apache.cordova.media" version="0.2.13" />
 		
 
 </widget>
